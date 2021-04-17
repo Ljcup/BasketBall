@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "521498388066",
+    "project_id": "basketball-7a378",
+    "storage_bucket": "basketball-7a378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521498388066:android:6f2c095e5f7b8dc040933b",
+        "android_client_info": {
+          "package_name": "com.myapp.basketball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521498388066-o6ci421n5n2dg7p2devjbal95jevbgjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.basketball",
+            "certificate_hash": "bb82572b5a9169fcaca542fd744d7ddbebca5d1a"
+          }
+        },
+        {
+          "client_id": "521498388066-6d2lnvbs1ikb8vm77pjlhvdtirhoquuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwU6Y4FOtraufJ8GQC4SDpzpt6maoZsj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521498388066-6d2lnvbs1ikb8vm77pjlhvdtirhoquuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
